@@ -65,7 +65,7 @@ function LoginPage() {
           </form>
 
           <p style={{ textAlign: 'center', color: '#667' }}>
-            Don't have an account? <a href="/signup" style={{ color: '#2563eb' }}>Sign up</a>
+            Don't have an account? <a href='#/signup' style={{ color: '#2563eb' }}>Sign up</a>
           </p>
         </div>
       </div>

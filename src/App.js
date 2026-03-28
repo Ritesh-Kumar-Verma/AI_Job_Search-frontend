@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate, HashRouter } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
@@ -90,11 +90,18 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    
+
+
+    <HashRouter>
       <AuthProvider>
         <AppContent />
       </AuthProvider>
-    </Router>
+    </HashRouter>
+
+
+
+
   );
 }
 
