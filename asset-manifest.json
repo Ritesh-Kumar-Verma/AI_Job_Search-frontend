@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AI_Job_Search-frontend/static/css/main.e5ae4798.css",
-    "main.js": "/AI_Job_Search-frontend/static/js/main.1533e4e9.js",
+    "main.js": "/AI_Job_Search-frontend/static/js/main.d579d8b0.js",
     "index.html": "/AI_Job_Search-frontend/index.html",
     "main.e5ae4798.css.map": "/AI_Job_Search-frontend/static/css/main.e5ae4798.css.map",
-    "main.1533e4e9.js.map": "/AI_Job_Search-frontend/static/js/main.1533e4e9.js.map"
+    "main.d579d8b0.js.map": "/AI_Job_Search-frontend/static/js/main.d579d8b0.js.map"
   },
   "entrypoints": [
     "static/css/main.e5ae4798.css",
-    "static/js/main.1533e4e9.js"
+    "static/js/main.d579d8b0.js"
   ]
 }
